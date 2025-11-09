@@ -1,11 +1,11 @@
 <!-- GitHub Profile README for Yosef Abire -->
 
-<h1 align="center">Hey there 👋, I'm Yosef Abire</h1>
-<h3 align="center">🚀 Python-Based Backend Developer | API Developer | Data Analyst </h3>
+<h1 align="center">Hey there, I'm Yosef Abire</h1>
+<h3 align="center"> Python-Based Backend Developer | API Developer | Data Analyst </h3>
 
 ---
 
-### 🧠 About Me  
+###  About Me  
 I’m a passionate backend developer focused on building reliable, efficient, and scalable server-side applications.  
 With hands-on experience in Django, REST APIs, databases, and automation, I love turning data and logic into powerful backend systems.  
 
@@ -75,5 +75,5 @@ With hands-on experience in Django, REST APIs, databases, and automation, I love
 
 ---
 
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
-— Yosef Abire
+ *“Code is like humor. When you have to explain it, it’s bad.”*  
+         Yosef Abire   

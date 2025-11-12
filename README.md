@@ -7,7 +7,7 @@
 
 ###  About Me  
 I’m a passionate backend developer focused on building reliable, efficient, and scalable server-side applications.  
-With hands-on experience in Django, REST APIs, databases, and automation, I love turning data and logic into powerful backend systems.  
+With hands-on experience in FastAPIs,Django, REST APIs, databases(PostgreSQL, MySQL, MongoDB), and automation, I love turning data and logic into powerful backend systems.  
 
 💡 Currently exploring: Cloud deployment & microservices with Kubernetes and Docker  
 ⚡️ Passionate about: Automation, APIs, and data-driven decision making  

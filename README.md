@@ -36,6 +36,10 @@ With hands-on experience in FastAPIs, Django, REST APIs, databases(PostgreSQL, M
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
 
 #### 📊 Data Science & Automation
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blueviolet?style=for-the-badge)

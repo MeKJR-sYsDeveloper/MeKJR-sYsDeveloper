@@ -79,5 +79,5 @@ With hands-on experience in FastAPIs, Django, REST APIs, databases(PostgreSQL, M
 
 ---
 
- *“ Good code explains itself. If you need to explain it, something's off in the design. ”*  
+ *“ Backend developers build the foundations that everything else depends on. Without them, the frontend is just decoration. ”*  
          Yosef Abire   

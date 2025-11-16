@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Yosef Abire -->
 
 <h1 align="center">Hey there, I'm Yosef Abire</h1>
-<h3 align="center"> Python-Based Backend Developer | API Developer | Data Analyst </h3>
+<h2 align="center"> Python-Backend & API Developer || Data Analyst </h2>
 
 ---
 
